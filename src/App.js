@@ -112,18 +112,6 @@ const resumeData = {
         "Independently developed frontend of two projects from scratch with fully reliable and optimized code",
       ],
     },
-      {
-      company: "Appventurez Mobitech Pvt. Ltd",
-      location: "Noida",
-      title: "Software Developer",
-      period: "Jan 2022 – Present",
-      achievements: [
-        "Developed scalable, modular frontend apps using React.js & Redux",
-        "Integrated REST APIs with performance-oriented architecture",
-        "Delivered full client-facing solutions independently",
-        "Independently developed frontend of two projects from scratch with fully reliable and optimized code",
-      ],
-    },
   ],
   projects: [
     {
